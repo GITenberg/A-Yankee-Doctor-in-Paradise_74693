@@ -1,11 +1,16 @@
 _repo: A-Yankee-Doctor-in-Paradise_74693
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74693-h/images/cover.jpg
 creator:
   author:
     agent_name: Lambert, Sylvester Maxwell
     gutenberg_agent_id: '57602'
     url: http://www.gutenberg.org/2009/agents/57602
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74693#A-Yankee-Doctor-in-Paradise
 gutenberg_issued: '2024-11-06'
 gutenberg_type: Text
 identifiers:
